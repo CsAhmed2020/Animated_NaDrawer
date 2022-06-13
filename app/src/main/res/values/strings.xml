@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoB</string>
+    <string name="home">الرئيسية</string>
+    <string name="tasks">المهام</string>
+    <string name="video">بث مباشر</string>
+    <string name="call">مكالمة صوتية</string>
+    <string name="closeDrawer">خــروج</string>
+</resources>
